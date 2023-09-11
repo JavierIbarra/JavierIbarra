@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Javier Ibarra
 
 <img align="left" width="47%" style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api?username=JavierIbarra&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIbarra&layout=compact"/>
-    <br/>
+<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=JavierIbarra&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Javier Ibarra" />
+
+<br/>
 
 ## 🚀 Languages and Tools
 
